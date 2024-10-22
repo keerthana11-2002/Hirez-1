@@ -23,5 +23,5 @@
 # Usage
 - **User Registration & Login**: Users can sign up and log in using Clerk's authentication.
 - **Job Listings**: Browse and search for job opportunities.
--**recruiter Dashboard**: Recruiter can post new job listings and manage existing ones.
--**Profile Management**: Users can update their profile details.
+- **recruiter Dashboard**: Recruiter can post new job listings and manage existing ones.
+- **Profile Management**: Users can update their profile details.
